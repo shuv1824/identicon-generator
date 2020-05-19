@@ -1,6 +1,6 @@
 # Identicon
 
-Small Elixir program that generates and stores identicons.
+Small Elixir program that generates and stores identicons based on a string.
 
 ## Installation
 
